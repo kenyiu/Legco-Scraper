@@ -1,6 +1,7 @@
 # Hong Kong LegCo Data Scraper
 
-A script to extract legco data in both Chinese and English
+A script to extract legco data in both Chinese and English.
+
 1. Legco members' biography, includes:
 - name
 - profile picture URL
@@ -17,10 +18,9 @@ A script to extract legco data in both Chinese and English
 
 ## Usage
 
-Use the JSON data in
-
 ###Legco Members Biography
 [legco_members_bio_ch.json](https://raw.githubusercontent.com/kenyiu/Legco-Scraper/master/data/json/legco_members_bio_chi.json)
+
 [legco_members_bio_en.json](https://raw.githubusercontent.com/kenyiu/Legco-Scraper/master/data/json/legco_members_bio_eng.json)
 
 ## Do It Yourself
