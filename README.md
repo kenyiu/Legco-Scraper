@@ -3,16 +3,16 @@
 A script to extract legco data in both Chinese and English.
 
 1. Legco members' biography, includes:
-- name
-- profile picture URL
-- constituency
-- URL to their biographies.
-- Office Address
-- Office Telephone Number(s)
-- Office Fax Number(s)
-- Email Address
-- Website Address
-(amended based on https://github.com/OpenDataHK/legco_members)
+  - name
+  - profile picture URL
+  - constituency
+  - URL to their biographies.
+  - Office Address
+  - Office Telephone Number(s)
+  - Office Fax Number(s)
+  - Email Address
+  - Website Address
+  (amended based on https://github.com/OpenDataHK/legco_members)
 
 2. To be continued...
 
