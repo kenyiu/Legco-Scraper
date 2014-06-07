@@ -12,6 +12,7 @@ A script to extract legco data in both Chinese and English.
   - Office Fax Number(s)
   - Email Address
   - Website Address
+
   (amended based on https://github.com/OpenDataHK/legco_members)
 
 2. To be continued...
