@@ -26,6 +26,9 @@ module Legco
           end
 
           if url
+            qualifications = []
+            jobs = []
+            parties = []
             address = nil
             temp = nil
             telephone = []
@@ -33,7 +36,25 @@ module Legco
             email = nil
             website = nil
             url = to_absolute(base_url, url)
+
             page = Nokogiri::HTML(open(url))
+
+            content = page.search("#container")
+            uls = content.search("//ul")
+            uls[1].search("li").each do |li|
+              qualifications.push(li.text.strip)
+            end
+
+            uls[2].search("li").each do |li|
+              jobs.push(li.text.strip)
+            end
+
+            if (uls.size >= 4)
+              uls[3].search("li").each do |li|
+                parties.push(li.text.strip)
+              end
+            end
+
             content = page.search("#_content_")
             content.search("//table//tr").each do |tr|
               case tr.search("td[1]").text
@@ -57,6 +78,9 @@ module Legco
               image: to_absolute(base_url, image),
               url: url,
               constituency: constituency,
+              qualifications: qualifications,
+              jobs: jobs,
+              parties: parties,
               address: address,
               telephone: telephone,
               fax: fax,
@@ -88,6 +112,9 @@ module Legco
           end
 
           if url
+            qualifications = []
+            jobs = []
+            parties = []
             address = nil
             temp = nil
             telephone = []
@@ -95,7 +122,25 @@ module Legco
             email = nil
             website = nil
             url = to_absolute(base_url, url)
+
             page = Nokogiri::HTML(open(url))
+
+            content = page.search("#container")
+            uls = content.search("//ul")
+            uls[1].search("li").each do |li|
+              qualifications.push(li.text.strip)
+            end
+
+            uls[2].search("li").each do |li|
+              jobs.push(li.text.strip)
+            end
+
+            if (uls.size >= 4)
+              uls[3].search("li").each do |li|
+                parties.push(li.text.strip)
+              end
+            end
+
             content = page.search("#_content_")
             content.search("//table//tr").each do |tr|
               case tr.search("td[1]").text
@@ -119,6 +164,9 @@ module Legco
               image: to_absolute(base_url, image),
               url: url,
               constituency: constituency,
+              qualifications: qualifications,
+              jobs: jobs,
+              parties: parties,
               address: address,
               telephone: telephone,
               fax: fax,

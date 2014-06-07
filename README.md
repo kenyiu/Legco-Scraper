@@ -5,8 +5,11 @@ A script to extract legco data in both Chinese and English.
 1. Legco members' biography, includes:
   - name
   - profile picture URL
-  - constituency
-  - URL to their biographies.
+  - URL to their biographies
+  - Constituency
+  - Qualifications
+  - Jobs
+  - Parties
   - Office Address
   - Office Telephone Number(s)
   - Office Fax Number(s)
@@ -27,6 +30,10 @@ A script to extract legco data in both Chinese and English.
 ## Do It Yourself
 
 Clone this project, run following command to generate the data yourself.
+
+###Preparation
+
+1. Get Ruby
 
 ###Installation
 ```

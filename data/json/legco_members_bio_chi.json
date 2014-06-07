@@ -4,6 +4,17 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/tys.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/tys.htm",
     "constituency": "香港島",
+    "qualifications": [
+      "香港大學文學士（1968）",
+      "香港大學教育文憑（1981）",
+      "香港大學教育碩士（1983）"
+    ],
+    "jobs": [
+      "全職立法會議員"
+    ],
+    "parties": [
+      "民主建港協進聯盟"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓101室",
     "telephone": [
       "3919-3001"
@@ -19,6 +30,19 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/hcy.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/hcy.htm",
     "constituency": "區議會<第二>",
+    "qualifications": [
+      "香港大學法律學學士",
+      "香港大學法學專業證書",
+      "香港高等法院律師",
+      "國際公證律師"
+    ],
+    "jobs": [
+      "執業律師和公證律師",
+      "立法會議員"
+    ],
+    "parties": [
+      "民主黨"
+    ],
     "address": "香港中環德輔道中28號盤谷銀行7樓",
     "telephone": [
       "2868-2919",
@@ -35,6 +59,16 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lcy.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lcy.htm",
     "constituency": "新界西",
+    "qualifications": [
+      "香港大學土木工程系（理學士）"
+    ],
+    "jobs": [
+      "立法會議員"
+    ],
+    "parties": [
+      "香港職工會聯盟",
+      "工黨"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓905室",
     "telephone": [
       "2740-9292"
@@ -50,6 +84,16 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/tks.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/tks.htm",
     "constituency": "區議會<第二>",
+    "qualifications": [
+      "香港大學法學士",
+      "執業律師"
+    ],
+    "jobs": [
+      "律師"
+    ],
+    "parties": [
+      "民主黨"
+    ],
     "address": "九龍大角咀洋松街73-79號君豪工商大廈2樓A1室",
     "telephone": [
       "2789-8833",
@@ -66,6 +110,15 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/ckl.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/ckl.htm",
     "constituency": "九龍東",
+    "qualifications": [
+      "香港工業專門學校（香港理工大學前身）（1971）"
+    ],
+    "jobs": [
+      "全職立法會議員"
+    ],
+    "parties": [
+      "民主建港協進聯盟"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓614室",
     "telephone": [
       "2509-3207"
@@ -81,6 +134,16 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lyc.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lyc.htm",
     "constituency": "新界西",
+    "qualifications": [
+      "英國艾克色斯大學文學士（榮譽）",
+      "香港大學教育文憑"
+    ],
+    "jobs": [
+      "全職立法會議員"
+    ],
+    "parties": [
+      "街坊工友服務處"
+    ],
     "address": "新界葵涌葵芳邨葵仁樓地下7號",
     "telephone": [
       "2410-0360"
@@ -96,6 +159,16 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lwf.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lwf.htm",
     "constituency": "鄉議局",
+    "qualifications": [
+      "中國政法大學榮譽博士 (2012)"
+    ],
+    "jobs": [
+      "永同益（集團）有限公司主席"
+    ],
+    "parties": [
+      "香港經濟民生聯盟",
+      "經濟動力"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓711室",
     "telephone": [
       "2457-2822"
@@ -111,6 +184,16 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lwh.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lwh.htm",
     "constituency": "新界東",
+    "qualifications": [
+      "美國南加州大學電視新聞學士",
+      "英國倫敦大學附屬倫敦經濟及政治學院國際關係碩士"
+    ],
+    "jobs": [
+      "立法會議員"
+    ],
+    "parties": [
+      "民主黨"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓910室",
     "telephone": [
       "2607-3139"
@@ -126,6 +209,17 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/tyc.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/tyc.htm",
     "constituency": "新界西",
+    "qualifications": [
+      "澳洲國立大學延續教育部\"成人教育\"課程",
+      "英國倫敦大學倫敦經濟及政治學院\"工會學\"",
+      "英國商業管理學會永遠榮譽會士"
+    ],
+    "jobs": [
+      "立法會議員"
+    ],
+    "parties": [
+      "民主建港協進聯盟"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓617室",
     "telephone": [
       "2528-6888"
@@ -141,6 +235,15 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/slh.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/slh.htm",
     "constituency": "地產及建造界",
+    "qualifications": [
+      "澳洲悉尼大學文學士及教育文憑"
+    ],
+    "jobs": [
+      "公司董事"
+    ],
+    "parties": [
+      "香港經濟民生聯盟"
+    ],
     "address": "香港中環皇后大道中48號萬年大廈806室",
     "telephone": [
       "2588-1060"
@@ -156,6 +259,23 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/cyy.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/cyy.htm",
     "constituency": "飲食界",
+    "qualifications": [
+      "Pepperdine University (B.Sc., M.B.A.)"
+    ],
+    "jobs": [
+      "高益管理顧問有限公司主席",
+      "祥發貿易有限公司主席",
+      "利士達發展有限公司主席",
+      "團力興業有限公司董事",
+      "第一宏豐有限公司非執行董事",
+      "從玉農業控股有限公司獨立非執行董事",
+      "TC Marketing Company Ltd.主席",
+      "Royal Bakery Holdings Inc.主席",
+      "Eco Oil Company Ltd.主席"
+    ],
+    "parties": [
+      "自由黨"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓818室",
     "telephone": [
       "2537-2410"
@@ -171,6 +291,15 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/fkk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/fkk.htm",
     "constituency": "區議會<第二>",
+    "qualifications": [
+      "英國百拉福大學社會政策及公共行政榮譽學士（1982）"
+    ],
+    "jobs": [
+      "立法會議員"
+    ],
+    "parties": [
+      "香港民主民生協進會"
+    ],
     "address": "九龍彌敦道469號新光商業大廈1104室",
     "telephone": [
       "2782-2699",
@@ -188,6 +317,18 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/fk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/fk.htm",
     "constituency": "批發及零售界",
+    "qualifications": [
+      "美國北卡羅來納州大學紡織工程碩士（1969）",
+      "美國北卡羅來納州大學紡織工程學士（1967）",
+      "華仁書院（1962）"
+    ],
+    "jobs": [
+      "陶比（香港）有限公司行政總裁",
+      "志豐製衣有限公司董事總經理"
+    ],
+    "parties": [
+      "自由黨"
+    ],
     "address": "新界葵涌國瑞路45-51號Toppy大樓10樓",
     "telephone": [
       "2401-1801",
@@ -204,6 +345,19 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/wkh.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/wkh.htm",
     "constituency": "香港島",
+    "qualifications": [
+      "暨南大學社會學本科學位文學士",
+      "香港大學專業進修學院社會行政學文憑",
+      "香港大學專業進修學院終身學習傑出學員獎（9/2001）",
+      "香港大學專業進修學院校友會、香港大學專業進修學院傑出校友（11/2009）"
+    ],
+    "jobs": [
+      "作家",
+      "香港工會聯合會港島辦事處主任"
+    ],
+    "parties": [
+      "香港工會聯合會"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓1009-1014室",
     "telephone": [
       "2537-9618"
@@ -219,6 +373,16 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lklj.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lklj.htm",
     "constituency": "衛生服務界",
+    "qualifications": [
+      "哲學博士（社會科學）",
+      "註冊護士"
+    ],
+    "jobs": [
+      "香港公開大學護理及健康學部教授及主任"
+    ],
+    "parties": [
+
+    ],
     "address": "九龍佐敦白加士街25-27號慶雲商業大廈8樓25室",
     "telephone": [
       "3168-2571"
@@ -234,6 +398,17 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lkf.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lkf.htm",
     "constituency": "商界<第一>",
+    "qualifications": [
+      "香港聖若瑟書院",
+      "美國Tufts University機械工程學士"
+    ],
+    "jobs": [
+      "永和實業有限公司董事長"
+    ],
+    "parties": [
+      "香港經濟民生聯盟",
+      "經濟動力"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓712室",
     "telephone": [
       "2530-3556"
@@ -249,6 +424,19 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lky.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lky.htm",
     "constituency": "工業界<第一>",
+    "qualifications": [
+      "英國利茲大學榮譽學士",
+      "紡織學會資深會員",
+      "製衣業及鞋類學會資深會員",
+      "英國考文垂大學工商管理榮譽博士"
+    ],
+    "jobs": [
+      "商人"
+    ],
+    "parties": [
+      "經濟動力",
+      "香港經濟民生聯盟"
+    ],
     "address": "新界葵涌青山道547-549號瑞康工業大廈2樓",
     "telephone": [
       "2480-7113"
@@ -264,6 +452,16 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/wtk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/wtk.htm",
     "constituency": "進出口界",
+    "qualifications": [
+      "香島中學（小一至中四）",
+      "廣州市第六中學（高中三）"
+    ],
+    "jobs": [
+      "商人"
+    ],
+    "parties": [
+      "民主建港協進聯盟"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓610室",
     "telephone": [
       "2826-9152"
@@ -279,6 +477,28 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/tkw.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/tkw.htm",
     "constituency": "新界東",
+    "qualifications": [
+      "香港皇仁書院",
+      "香港大學法律學士（1972）（一級榮譽及全班第一名）",
+      "牛津大學民事法律（榮譽）學士（1974）",
+      "香港大學李福善法律獎章得主（1972）",
+      "國際扶輪社畢業生獎項得獎人（1973-1974）",
+      "牛津大學St. Edmund Hall Winter-Williams獎學金學生（1972-1974）",
+      "倫敦大律師公會終期試榮譽證書（一級榮譽及總第一名）（1974）",
+      "Lloyd Stott紀念獎（1974）",
+      "J.B.Montagu見習大律師獎（1974）",
+      "The Middle Temple榮譽證書（1974）",
+      "香港大律師公會會員",
+      "英國大律師公會理事會會員",
+      "美國紐約州大律師公會會員",
+      "香港大律師公會主席（1999-2001）"
+    ],
+    "jobs": [
+      "資深大律師"
+    ],
+    "parties": [
+      "公民黨"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓810室",
     "telephone": [
       "2509-3132"
@@ -294,6 +514,16 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/hsl.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/hsl.htm",
     "constituency": "香港島",
+    "qualifications": [
+      "滑鐡盧大學"
+    ],
+    "jobs": [
+      "全職立法會議員"
+    ],
+    "parties": [
+      "公民起動",
+      "工黨"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓903室",
     "telephone": [
       "2156-1621",
@@ -310,6 +540,20 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lwks.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lwks.htm",
     "constituency": "區議會<第二>",
+    "qualifications": [
+      "英國曼徹斯特大學工商管理碩士",
+      "香港科技大學工商管理學士",
+      "香港會計師公會會員",
+      "英倫及威爾斯特許會計師公會會員",
+      "英國特許秘書及行政人員公會會員",
+      "香港特許秘書公會會士"
+    ],
+    "jobs": [
+      "會計師"
+    ],
+    "parties": [
+      "民主建港協進聯盟"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓602室",
     "telephone": [
       "2537-3507"
@@ -325,6 +569,16 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/ltf.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/ltf.htm",
     "constituency": "工業界<第二>",
+    "qualifications": [
+      "香港理工學院（現香港理工大學）紡織工藝學高級文憑",
+      "香港理工大學榮譽工商管理博士"
+    ],
+    "jobs": [
+      "立法會議員"
+    ],
+    "parties": [
+      "功能界別 – 工業界（第二）"
+    ],
     "address": "九龍尖沙咀科學館道1號康宏廣場16樓1617室",
     "telephone": [
       "2739-2822"
@@ -340,6 +594,16 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/chk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/chk.htm",
     "constituency": "新界東",
+    "qualifications": [
+      "香港中文大學社會科學（榮譽）學士",
+      "香港中文大學社會科學碩士"
+    ],
+    "jobs": [
+      "立法會議員"
+    ],
+    "parties": [
+      "民主建港協進聯盟"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓609室",
     "telephone": [
       "2524-9191"
@@ -355,6 +619,18 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/ckp.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/ckp.htm",
     "constituency": "保險界",
+    "qualifications": [
+      "伍華書院",
+      "英國特許保險學會會士",
+      "英國特許保險學會特許承保人"
+    ],
+    "jobs": [
+      "立法會議員",
+      "Member of the Munich Re China Advisory Board"
+    ],
+    "parties": [
+
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓803室",
     "telephone": [
       "2899-2831"
@@ -370,6 +646,23 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lmf.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lmf.htm",
     "constituency": "九龍西",
+    "qualifications": [
+      "香港執業大律師",
+      "中國國際經濟貿易仲裁委員會仲裁員",
+      "域名專家",
+      "香港大學PCLL",
+      "英國Manchester Metropolitan University (CPE)",
+      "香港中文大學BSSc",
+      "中國人民大學法學碩士及博士"
+    ],
+    "jobs": [
+      "香港城市大學法學院副教授",
+      "香港執業大律師"
+    ],
+    "parties": [
+      "香港經濟民生聯盟",
+      "專業會議"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓706室",
     "telephone": [
       "2537-3518"
@@ -385,6 +678,19 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lkl.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lkl.htm",
     "constituency": "醫學界",
+    "qualifications": [
+      "香港中文大學內外全科醫學士",
+      "英國愛丁堡皇家外科醫學院院士",
+      "香港外科醫學院院士",
+      "香港醫學專科學院院士（外科）",
+      "香港中文大學醫學博士"
+    ],
+    "jobs": [
+      "醫生"
+    ],
+    "parties": [
+
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓806室",
     "telephone": [
       "2537-3592"
@@ -400,6 +706,16 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/ckc.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/ckc.htm",
     "constituency": "社會福利界",
+    "qualifications": [
+      "社會工作文憑"
+    ],
+    "jobs": [
+      "社會工作者"
+    ],
+    "parties": [
+      "香港社會工作者總工會",
+      "工黨"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓906室",
     "telephone": [
       "2537-3608"
@@ -415,6 +731,17 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/wkk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/wkk.htm",
     "constituency": "九龍東",
+    "qualifications": [
+      "上海海運學院國際航運管理課程証書（1994年1月至1996年11月）",
+      "廣東行政學院現代管理專業課程証書（1998年）",
+      "中國工運學院社會工作（工會）專業函授課程証書（2000年3月至2003年1月）"
+    ],
+    "jobs": [
+      "工會工作者"
+    ],
+    "parties": [
+      "香港工會聯合會"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓1009-1014室",
     "telephone": [
       "2537-9618"
@@ -430,6 +757,15 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/ikh.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/ikh.htm",
     "constituency": "區議會<第一>",
+    "qualifications": [
+      "華南師範大學文學士"
+    ],
+    "jobs": [
+      "立法會議員"
+    ],
+    "parties": [
+      "民主建港協進聯盟"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓619室",
     "telephone": [
       "2537-3502"
@@ -445,6 +781,18 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/ilsy.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/ilsy.htm",
     "constituency": "香港島",
+    "qualifications": [
+      "香港大學文學學士（一級榮譽）",
+      "英國格拉斯哥大學文學碩士",
+      "美國史丹福大學管理碩士",
+      "美國史丹福大學東亞研究文學碩士"
+    ],
+    "jobs": [
+      "匯賢智庫理事會主席"
+    ],
+    "parties": [
+      "新民黨"
+    ],
     "address": "香港灣仔軒尼詩道139號中國海外大廈11樓A至B室",
     "telephone": [
       "2537-3267",
@@ -461,6 +809,24 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/twc.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/twc.htm",
     "constituency": "九龍東",
+    "qualifications": [
+      "澳洲新南威爾斯大學法律學士",
+      "澳洲新南威爾斯大學商業（會計）學士",
+      "香港城市大學中國法與比較法碩士",
+      "北京人民大學中國法律碩士課程",
+      "澳洲新南威爾斯省大律師",
+      "新加坡大律師及律師",
+      "英國特許仲裁公會會員",
+      "澳洲會計師公會會員",
+      "香港最高法院大律師（1984 - 1991）",
+      "香港最高法院律師"
+    ],
+    "jobs": [
+      "律師"
+    ],
+    "parties": [
+
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓714室",
     "telephone": [
       "2509-0088"
@@ -476,6 +842,18 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lkk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lkk.htm",
     "constituency": "九龍東",
+    "qualifications": [
+      "香港大學法律學士（1982）",
+      "英國劍橋大學法律碩士（1984）",
+      "香港執業大律師（1983）",
+      "資深大律師（1998）"
+    ],
+    "jobs": [
+      "資深大律師"
+    ],
+    "parties": [
+      "公民黨"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓811室",
     "telephone": [
       "2509-3100"
@@ -491,6 +869,16 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lkh.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lkh.htm",
     "constituency": "新界東",
+    "qualifications": [
+      "中六"
+    ],
+    "jobs": [
+      "立法會議員"
+    ],
+    "parties": [
+      "四五行動",
+      "社會民主連線"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓1019室",
     "telephone": [
       "2537-0229"
@@ -506,6 +894,17 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/cwy.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/cwy.htm",
     "constituency": "新界西",
+    "qualifications": [
+      "文學士",
+      "社工學士",
+      "社工碩士"
+    ],
+    "jobs": [
+      "全職立法會議員"
+    ],
+    "parties": [
+      "人民力量"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓1002室",
     "telephone": [
       "2411-3107"
@@ -521,6 +920,16 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/wym.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/wym.htm",
     "constituency": "九龍西",
+    "qualifications": [
+      "珠海學院歷史研究所碩士",
+      "珠海學院新聞及傳播學系專科教授兼學系主任(1988-1992)"
+    ],
+    "jobs": [
+      "普羅政治學苑有限公司主席"
+    ],
+    "parties": [
+
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓1001室",
     "telephone": [
       "2537-3150"
@@ -536,6 +945,16 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/mc.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/mc.htm",
     "constituency": "九龍西",
+    "qualifications": [
+      "大學新聞學士"
+    ],
+    "jobs": [
+      "傳媒工作者",
+      "兼職講師"
+    ],
+    "parties": [
+      "公民黨"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓809室",
     "telephone": [
       "2856-1336"
@@ -551,6 +970,16 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/tps.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/tps.htm",
     "constituency": "新界西",
+    "qualifications": [
+      "美國哈佛大學工商管理碩士",
+      "美國康奈爾大學電子工程系學士"
+    ],
+    "jobs": [
+      "縱橫二千集團主席"
+    ],
+    "parties": [
+      "新民黨"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓805室",
     "telephone": [
       "3979-1700"
@@ -566,6 +995,16 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/tpc.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/tpc.htm",
     "constituency": "新界東",
+    "qualifications": [
+      "美國聖荷西大學化學工程碩士",
+      "美國伊利諾州大學化學工程學士"
+    ],
+    "jobs": [
+      "公司主席"
+    ],
+    "parties": [
+      "自由黨"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓819室",
     "telephone": [
       "2319-0720",
@@ -582,6 +1021,20 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/nls.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/nls.htm",
     "constituency": "金融界",
+    "qualifications": [
+      "香島中學",
+      "澳門東亞大學研究院",
+      "香港金融管理局銀行業務諮詢委員會委員",
+      "教育局銀行業行業培訓諮詢委員會主席",
+      "香港銀行華員會名譽會長",
+      "香港金融業志同會有限公司名譽顧問"
+    ],
+    "jobs": [
+      "銀行家(中國銀行(香港)信託有限公司董事長及集友銀行有限公司副董事長)"
+    ],
+    "parties": [
+
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓704室",
     "telephone": [
       "2319-5166"
@@ -597,6 +1050,15 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/hcys.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/hcys.htm",
     "constituency": "漁農界",
+    "qualifications": [
+      "英國伯明翰大學通訊及電腦系統工程學士"
+    ],
+    "jobs": [
+      "立法會議員"
+    ],
+    "parties": [
+      "民主建港協進聯盟"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓611室",
     "telephone": [
       "2682-0155"
@@ -612,6 +1074,26 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/ycm.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/ycm.htm",
     "constituency": "航運交通界",
+    "qualifications": [
+      "工業管理碩士",
+      "工業工程學士",
+      "生產及工業工程高級文憑",
+      "行政人員管理証書",
+      "英國特許運輸物流學會資深會員",
+      "英國特許註冊工程師",
+      "英國工程及科技學會會員",
+      "英國採購及供應學會會員"
+    ],
+    "jobs": [
+      "九龍倉有限公司董事",
+      "海港企業有限公司董事",
+      "現代貨箱碼頭有限公司董事",
+      "香港空運貨站有限公司董事",
+      "天星小輪有限公司董事"
+    ],
+    "parties": [
+      "自由黨"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓717室",
     "telephone": [
       "2537-2442"
@@ -627,6 +1109,16 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/wcw.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/wcw.htm",
     "constituency": "九龍東",
+    "qualifications": [
+      "經濟學碩士"
+    ],
+    "jobs": [
+      "立法會議員",
+      "黃大仙區議會議員"
+    ],
+    "parties": [
+      "民主黨"
+    ],
     "address": "九龍黃大仙蒲崗村道61-87號\r\n\t\t\t\t\t富佑大廈12-24號地鋪",
     "telephone": [
       "2761-3206"
@@ -642,6 +1134,15 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/ysw.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/ysw.htm",
     "constituency": "旅遊界",
+    "qualifications": [
+      "預科畢業"
+    ],
+    "jobs": [
+      "旅行社副董事長"
+    ],
+    "parties": [
+
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓719室",
     "telephone": [
       "2297-0633"
@@ -657,6 +1158,18 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/fkw.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/fkw.htm",
     "constituency": "新界東",
+    "qualifications": [
+      "美國三藩市州立大學政治學碩士",
+      "美國三藩市美術學院學士"
+    ],
+    "jobs": [
+      "立法會議員",
+      "西貢區議會議員",
+      "兼職大學導師"
+    ],
+    "parties": [
+      "新民主同盟"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓1018室",
     "telephone": [
       "2572-0255"
@@ -672,6 +1185,15 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/mfk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/mfk.htm",
     "constituency": "體育、演藝、文化及出版界",
+    "qualifications": [
+      "大專程度"
+    ],
+    "jobs": [
+      "執行董事"
+    ],
+    "parties": [
+      "新論壇"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓713室",
     "telephone": [
       "2668-4101"
@@ -687,6 +1209,20 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/mcp.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/mcp.htm",
     "constituency": "資訊科技界",
+    "qualifications": [
+      "美國普度大學電機工程碩士",
+      "美國普度大學電腦及電機工程學士",
+      "香港電腦學會資深會員",
+      "計算機學會會員",
+      "電機暨電子工程師學會會員",
+      "工程及科技學會會員"
+    ],
+    "jobs": [
+      "資訊科技行政人員"
+    ],
+    "parties": [
+      "公共專業聯盟"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓917室",
     "telephone": [
       "2352-3129"
@@ -702,6 +1238,16 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/ccc.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/ccc.htm",
     "constituency": "新界東",
+    "qualifications": [
+      "香港中文大學社會學系(榮譽)學士"
+    ],
+    "jobs": [
+      "全職立法會議員"
+    ],
+    "parties": [
+      "人民力量",
+      "前綫"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓1003室",
     "telephone": [
       "2543-9500"
@@ -717,6 +1263,17 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/chp.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/chp.htm",
     "constituency": "新界西",
+    "qualifications": [
+      "碩士"
+    ],
+    "jobs": [
+      "立法會議員",
+      "荃灣區議會議員"
+    ],
+    "parties": [
+      "民主建港協進聯盟",
+      "新界社團聯會"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓613室",
     "telephone": [
       "2522-2202"
@@ -732,6 +1289,16 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/cklk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/cklk.htm",
     "constituency": "香港島",
+    "qualifications": [
+      "香港中文大學政治與行政學系(榮譽)學士",
+      "英國牛津大學政治學哲學碩士及哲學博士"
+    ],
+    "jobs": [
+      "香港浸會大學政治及國際關係學系副教授"
+    ],
+    "parties": [
+      "公民黨"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓814室",
     "telephone": [
       "2521-6292"
@@ -747,6 +1314,20 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/cyh.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/cyh.htm",
     "constituency": "區議會<第二>",
+    "qualifications": [
+      "海陸豐公學",
+      "新僑中學",
+      "澤群中學",
+      "香港理工大學及香港管理學會工商管理高級文憑課程",
+      "廣東省科研大學哲學系",
+      "英國華威大學勞工課程"
+    ],
+    "jobs": [
+      "勞工服務"
+    ],
+    "parties": [
+      "香港工會聯合會"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓1009-1014室",
     "telephone": [
       "2537-9618"
@@ -762,6 +1343,16 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lcc.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lcc.htm",
     "constituency": "新界西",
+    "qualifications": [
+      "大專"
+    ],
+    "jobs": [
+      "元朗區議會主席",
+      "立法會議員"
+    ],
+    "parties": [
+      "民主建港協進聯盟"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓603室",
     "telephone": [
       "2668-5251"
@@ -777,6 +1368,23 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lk.htm",
     "constituency": "會計界",
+    "qualifications": [
+      "香港理工大學會計專業文憑",
+      "倫敦政治經濟學院理學士(經濟學)",
+      "倫敦政治經濟學院法學碩士",
+      "香港會計師公會資深會員",
+      "英國特許會計師公會資深會員",
+      "香港註冊稅務師",
+      "英國特許稅務師",
+      "香港及英格蘭執業律師"
+    ],
+    "jobs": [
+      "高級稅務顧問",
+      "非執業會計師"
+    ],
+    "parties": [
+      "公共專業聯盟"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓918室",
     "telephone": [
       "2352-3209"
@@ -792,6 +1400,16 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/mmk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/mmk.htm",
     "constituency": "新界西",
+    "qualifications": [
+      "文學士"
+    ],
+    "jobs": [
+      "立法會議員",
+      "葵青區議會議員"
+    ],
+    "parties": [
+      "香港工會聯合會"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓1009-1014室",
     "telephone": [
       "2537-9618"
@@ -807,6 +1425,19 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/kkk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/kkk.htm",
     "constituency": "新界西",
+    "qualifications": [
+      "香港大學內外全科醫學士 (1985)",
+      "英國皇家愛丁堡外科學院院士 (1990)",
+      "香港外科醫學院院士 (1990)",
+      "香港醫學專科學院院士 (1993)",
+      "香港大學文科碩士 (2003)"
+    ],
+    "jobs": [
+      "私人執業泌尿外科醫生"
+    ],
+    "parties": [
+      "公民黨"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓812室",
     "telephone": [
       "2677-6877"
@@ -822,6 +1453,16 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/kwk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/kwk.htm",
     "constituency": "勞工界",
+    "qualifications": [
+      "大專",
+      "註冊社工"
+    ],
+    "jobs": [
+      "立法會議員"
+    ],
+    "parties": [
+      "香港工會聯合會"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓1010室",
     "telephone": [
       "2537-9618"
@@ -837,6 +1478,16 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/kd.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/kd.htm",
     "constituency": "法律界",
+    "qualifications": [
+      "倫敦大學法律學士",
+      "香港大學法律專業證書"
+    ],
+    "jobs": [
+      "大律師"
+    ],
+    "parties": [
+      "公民黨"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓813室",
     "telephone": [
       "2243-5508"
@@ -852,6 +1503,15 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/cwf.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/cwf.htm",
     "constituency": "金融服務界",
+    "qualifications": [
+      "香港城市大學行政人員工商管理碩士"
+    ],
+    "jobs": [
+      "證券交易商"
+    ],
+    "parties": [
+      "香港經濟民生聯盟"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓705室",
     "telephone": [
       "2886-8248"
@@ -867,6 +1527,16 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/cch.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/cch.htm",
     "constituency": "新界東",
+    "qualifications": [
+      "博士",
+      "註冊社工"
+    ],
+    "jobs": [
+      "大學講師"
+    ],
+    "parties": [
+      "工黨"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓1017室",
     "telephone": [
       "2613-9200",
@@ -884,6 +1554,17 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/sck.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/sck.htm",
     "constituency": "香港島",
+    "qualifications": [
+      "香港大學理學士(1982)",
+      "香港中文大學工商管理碩士(1997)",
+      "香港電腦學會院士"
+    ],
+    "jobs": [
+      "全職立法會議員"
+    ],
+    "parties": [
+      "民主黨"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓913室",
     "telephone": [
       "2537-2315"
@@ -899,6 +1580,18 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/wpw.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/wpw.htm",
     "constituency": "九龍西",
+    "qualifications": [
+      "香港中文大學宗教研究文學士",
+      "香港中文大學政治及公共行政哲學碩士",
+      "美國洛衫磯加州大學政治科學文學碩士",
+      "美國洛衫磯加州大學政治科學哲學博士"
+    ],
+    "jobs": [
+      "香港理工大學講師"
+    ],
+    "parties": [
+      "民主黨"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓912室",
     "telephone": [
       "2537-2122"
@@ -914,6 +1607,18 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/iky.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/iky.htm",
     "constituency": "教育界",
+    "qualifications": [
+      "香港大學文學士",
+      "香港大學教育文憑",
+      "香港大學教育碩士"
+    ],
+    "jobs": [
+      "立法會議員",
+      "香港教育專業人員協會義務總幹事(發展)"
+    ],
+    "parties": [
+
+    ],
     "address": "九龍旺角山東街51號中僑商業大廈7樓",
     "telephone": [
       "2780-7337"
@@ -929,6 +1634,18 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/qe.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/qe.htm",
     "constituency": "新界東",
+    "qualifications": [
+      "哲學博士(管理)",
+      "社會科學碩士(婚姻與家庭治療)"
+    ],
+    "jobs": [
+      "立法會議員",
+      "沙田區議會議員",
+      "資訊科技管理"
+    ],
+    "parties": [
+      "民主建港協進聯盟"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓606室",
     "telephone": [
       "2833-9932"
@@ -944,6 +1661,19 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lck.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lck.htm",
     "constituency": "商界<第二>",
+    "qualifications": [
+      "經濟學士(榮譽)",
+      "法學碩士",
+      "英格蘭及威爾斯大律師",
+      "香港大律師",
+      "星加坡訟務及事務律師"
+    ],
+    "jobs": [
+      "大律師"
+    ],
+    "parties": [
+      "功能界別 – 商界(第二)"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓703室",
     "telephone": [
       "2576-7121"
@@ -959,6 +1689,15 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/psp.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/psp.htm",
     "constituency": "勞工界",
+    "qualifications": [
+      "中學"
+    ],
+    "jobs": [
+      "工會工作者"
+    ],
+    "parties": [
+      "港九勞工社團聯會"
+    ],
     "address": "九龍旺角砵蘭街450 - 454號炳富商業大廈9樓C室",
     "telephone": [
       "2787-9166"
@@ -974,6 +1713,17 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/tkp.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/tkp.htm",
     "constituency": "勞工界",
+    "qualifications": [
+      "香港中文大學社會科學碩士",
+      "香港中文大學社會科學院榮譽學士",
+      "註冊社工"
+    ],
+    "jobs": [
+      "服務機構社工"
+    ],
+    "parties": [
+      "香港工會聯合會"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓1009-1014室",
     "telephone": [
       "2537-9618"
@@ -989,6 +1739,19 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/clw.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/clw.htm",
     "constituency": "九龍西",
+    "qualifications": [
+      "加拿大康戈迪亞大學文學學士",
+      "香港中文大學文學碩士",
+      "中國社會科學院法學博士",
+      "香港工業專業評審局榮譽院士",
+      "香港城市大學榮譽院士"
+    ],
+    "jobs": [
+      "立法會議員"
+    ],
+    "parties": [
+      "民主建港協進聯盟"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓605室",
     "telephone": [
       "2539-6111"
@@ -1004,6 +1767,26 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lwk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lwk.htm",
     "constituency": "工程界",
+    "qualifications": [
+      "香港大學機械工程學士",
+      "香港大學工業工程碩士",
+      "香港中文大學工商管理碩士",
+      "英國華威大學工學博士",
+      "香港工程師學會資深會員",
+      "國際工程技術學會會士",
+      "機械工程師學會院士",
+      "製造及機械工程特許工程師",
+      "註册專業工程師",
+      "職業訓練局榮譽院士及客座教授",
+      "香港城市大學兼任教授",
+      "香港科技大學榮譽院士"
+    ],
+    "jobs": [
+      "工程師"
+    ],
+    "parties": [
+      "香港經濟民生聯盟"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓709室",
     "telephone": [
       "2539-0610"
@@ -1019,6 +1802,16 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/ckpf.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/ckpf.htm",
     "constituency": "紡織及製衣界",
+    "qualifications": [
+      "英國Robert Gordon University建築物料測量學士",
+      "英國Stirling University工商管理碩士"
+    ],
+    "jobs": [
+      "商人"
+    ],
+    "parties": [
+      "自由黨"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓718室",
     "telephone": [
       "2813-6156",
@@ -1036,6 +1829,16 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/csk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/csk.htm",
     "constituency": "香港島",
+    "qualifications": [
+      "英國格拉斯哥克里多利亞大學理碩士(電子商貿)",
+      "英國威爾斯大學工商管理碩士"
+    ],
+    "jobs": [
+      "全職立法會議員"
+    ],
+    "parties": [
+      "民主建港協進聯盟"
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓612室",
     "telephone": [
       "2522-8291"
@@ -1051,6 +1854,15 @@
     "image": "http://www.legco.gov.hk/images/mem_small_1216/twct.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/twct.htm",
     "constituency": "建築、測量及都市規劃界",
+    "qualifications": [
+      "註冊專業測量師"
+    ],
+    "jobs": [
+      "測量師"
+    ],
+    "parties": [
+
+    ],
     "address": "香港中區立法會道1號立法會綜合大樓802室",
     "telephone": [
       "2880-5622"
